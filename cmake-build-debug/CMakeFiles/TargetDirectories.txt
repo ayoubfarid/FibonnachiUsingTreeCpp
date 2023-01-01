@@ -1,0 +1,3 @@
+/home/farid/Desktop/Cpp/TreeFibonacci/cmake-build-debug/CMakeFiles/TreeCpp.dir
+/home/farid/Desktop/Cpp/TreeFibonacci/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/farid/Desktop/Cpp/TreeFibonacci/cmake-build-debug/CMakeFiles/rebuild_cache.dir

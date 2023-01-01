@@ -13,9 +13,9 @@ int main() {
     cin>>val;
     //show and calculate the fibonnachi of the value given as input
     cout<<"\t"<<" the fibonnachi of "<<val<<" is "<<fibonnachi(val,tFib)<<endl;
-    cout<<"\t *************************** show the tree horizontally ***************************";
+   // cout<<"\t *************************** show the tree horizontally ***************************";
     //show tree horizontally
-    tFib->showHorizontal(tFib->root,0);
+    //tFib->showHorizontal(tFib->root,0);
 
     return 0;
 }
